@@ -1,0 +1,224 @@
+.form-login{
+    padding: 37px 20px;
+    border-radius: 10px;
+}
+.navbar {
+    margin-bottom: 30px;
+}
+/* .btn-primary {
+    background-color: #00535B;
+    border-color: #00535B;
+}
+.btn-primary:hover {
+    background-color: #004A51;
+    border-color: #003A3F;
+}
+.btn-primary:not(:disabled):not(.disabled):active {
+    background-color: #004A51;
+    border-color: #003A3F;
+} */
+.form-heading{
+    text-transform: uppercase;
+}
+body {
+    background-image: url(../images/bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.btn-login{
+    width: 100%;
+    margin-top: 40px;
+    background: #3269ff;
+    color: white;
+    margin-bottom: 30px;
+}
+a {
+    color: gray;
+    font-weight: bold;
+}
+.form-login span, .form-login a{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.form-control:focus {
+    color: #555 !important;
+    background-color: white !important;
+    border-color: #828282 !important;
+    box-shadow: none !important;
+}
+.profile-sidebar {
+    padding: 20px 20px 0px;
+    background: #fff;
+}
+.profile-usertitle-name {
+    color: #5a7391;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.profile {
+    margin: 20px 0;
+}
+.profile-usertitle {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+.profile-usertitle ul {
+    list-style: none;
+}
+.profile-usermenu {
+    margin-top: 30px;
+}
+.profile-usermenu ul li a {
+    color: inherit;
+}
+.profile-usermenu ul li {
+    border-bottom: 1px solid #f0f4f7;
+}
+
+.profile-usermenu ul li:last-child {
+    border-bottom: none;
+}
+/* .profile-usermenu ul li a:hover {
+    background-color: #fafcfd;
+    color: #5b9bd1;
+} */
+.profile-usermenu ul li:first-child {
+    border-top: 1px solid #f0f4f7;
+}
+
+.points_table thead {
+	width: 100%;
+}
+
+.points_table tbody {
+	overflow-y: auto;
+	width: 100%;
+}
+
+.points_table thead tr{
+	width: 99%;
+}
+
+ .points_table tr{
+ 	width: 100%;
+ }
+
+.points_table thead, tr#header{
+    background: #3269ff;
+    /* background:#00535B; */
+	color: #fff;
+}
+
+.points_table tbody td, .points_table thead > tr> th{
+	border-bottom-width: 0;
+}
+
+.points_table>tbody>tr>td, .points_table>tbody>tr>th, .points_table>tfoot>tr>td, .points_table>tfoot>tr>th, .points_table>thead>tr>td, .points_table>thead>tr>th{
+	padding: 8px;
+	height: auto;
+	text-align: center;
+	line-height: 32px;
+}
+
+.odd {
+	background: #ffffff;
+	color: #000;
+}
+.left{
+	    color: white;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 3px;
+}
+.even {
+	background: #efefef;
+	color: #000;
+}
+
+.points_table_scrollbar{
+	overflow-y: scroll;
+}
+
+.points_table_scrollbar::-webkit-scrollbar-track{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.9);
+	border-radius: 10px;
+	background-color: #444444;
+}
+
+.points_table_scrollbar::-webkit-scrollbar{
+	width: 1%;
+	min-width: 5px;
+	background-color: #3269ff;
+}
+
+.points_table_scrollbar::-webkit-scrollbar-thumb{
+	border-radius: 10px;
+	background-color: #3269ff;
+	background-image: -webkit-linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.4) 50%, transparent, transparent)
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+
+    color: #fff !important;
+    background-color: #3269ff !important;
+
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+
+    color: #fff !important;
+    text-decoration: none;
+
+}
+#edit {
+    display: none;
+}
+.error {
+    color: red;
+    margin: 0px;
+}
+.points_table {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+#contacts-header {
+    display: inline-block;
+}
+
+#editContacts {
+    height: 40px;
+}
+
+.flex-column li a {
+    display: inline-block;
+    width: 100%
+}
+
+.flex-column li {
+    text-align: center;
+    color: #93a3b5;
+}
+
+.profile-usermenu ul li:hover {
+    color: #5b9bd1;
+}
+.trip-button {
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+}
+
+#buttonContainer {
+    margin: 0 auto;
+    width: 217px;
+}
+
+
+
+.bootstrap-datetimepicker-widget {
+    background-color: #fff ;
+    color: #333 ;
+    }

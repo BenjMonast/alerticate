@@ -1,0 +1,287 @@
+commit 76754f19ceb890a4e9a01e24d76ce678871b3eed
+Author: root <benmony1021@gmail.com>
+Date:   Thu Apr 4 23:32:39 2019 -0700
+
+    Changed email
+
+commit d8f7167b9b3b7f6dee46aa949a43218b6298bd70
+Author: root <benmony1021@gmail.com>
+Date:   Wed Apr 3 20:15:17 2019 -0700
+
+    bug fixes
+
+commit 763220c209ca1670e3a8d33f9efc1b81999d5331
+Author: root <benmony1021@gmail.com>
+Date:   Tue Apr 2 20:59:30 2019 -0700
+
+    bug fixes
+
+commit 94cc63bc798fd0b7b1ebf2d4a69af4c0a993ce78
+Author: root <benmony1021@gmail.com>
+Date:   Sat Mar 30 21:36:46 2019 -0700
+
+    Test
+
+commit 36d75601ac0a9f7d66e8b2d256e06f1c86e3afa5
+Author: root <benmony1021@gmail.com>
+Date:   Sat Mar 30 21:34:12 2019 -0700
+
+    Test
+
+commit 07f85a259f8104d092ad26a2e176bf9775553b32
+Author: root <benmony1021@gmail.com>
+Date:   Sat Mar 30 21:12:07 2019 -0700
+
+    Changes
+
+commit 524c3001439ae72d8af767573dce7dfe341c0066
+Author: root <benmony1021@gmail.com>
+Date:   Sat Mar 30 20:45:09 2019 -0700
+
+    Test
+
+commit ead2d683b7f64fe5eb5efa9655f88e4268cc4e88
+Author: root <benmony1021@gmail.com>
+Date:   Sat Mar 30 20:35:52 2019 -0700
+
+    Changes
+
+commit 48e74e8eecad355c3998c89d641ac968a54f74bd
+Author: root <benmony1021@gmail.com>
+Date:   Thu Mar 21 22:39:10 2019 -0700
+
+    Changes and yeah
+
+commit 80ab55d698446e09bfd9586df6c5a6b67338db74
+Author: root <benmony1021@gmail.com>
+Date:   Sun Mar 17 20:16:20 2019 -0700
+
+    Added Features and Yeah
+
+commit 76c04041ce0555a65bb7d5f8f2e8922d4300a3b6
+Author: root <benmony1021@gmail.com>
+Date:   Mon Feb 18 20:13:30 2019 -0800
+
+    Test
+
+commit 88342a8fa389600ee7753949c903a74a0d015d70
+Author: root <benmony1021@gmail.com>
+Date:   Sat Feb 16 21:02:57 2019 -0800
+
+    Test
+
+commit d99a4c1f94551d77ab9119c2dbf1edb61a4e6ba8
+Author: root <benmony1021@gmail.com>
+Date:   Sat Feb 16 20:59:41 2019 -0800
+
+    Test
+
+commit 0febc321124b78e7c82c901026d3efcda67edbb8
+Author: root <benmony1021@gmail.com>
+Date:   Sat Feb 16 20:41:31 2019 -0800
+
+    'Test'
+
+commit 404a8077f2cbdd36a85802d387264a92a1794c84
+Author: root <benmony1021@gmail.com>
+Date:   Sat Feb 16 20:39:51 2019 -0800
+
+    Test
+
+commit 1823b26a74a20bcb0811a4a6e052af2a3e278779
+Author: root <benmony1021@gmail.com>
+Date:   Sat Feb 16 20:35:18 2019 -0800
+
+    'Test'
+
+commit 24a0798dd93bd205c7cfe663b327673501641c0d
+Author: root <benmony1021@gmail.com>
+Date:   Sat Feb 16 20:22:30 2019 -0800
+
+    Simplified the UI
+
+commit 4a13762d3e41eab9377c4da2e88162f52ffb87a9
+Author: root <benmony1021@gmail.com>
+Date:   Sun Jan 27 22:59:39 2019 -0800
+
+    Fixed Registration Error
+
+commit f1649b0fb4f4a7399d79dd33f6bcee586f4c10a6
+Author: root <benmony1021@gmail.com>
+Date:   Sat Jan 12 17:18:09 2019 -0800
+
+    Added features
+
+commit 065a387a82275bbbbf78b486275607016faf1d0f
+Author: root <benmony1021@gmail.com>
+Date:   Sun Dec 9 19:50:56 2018 -0800
+
+    Created a view for the verified page
+
+commit 9801b33737582113495fef9830ccdcee908b0691
+Author: root <benmony1021@gmail.com>
+Date:   Fri Dec 7 19:41:46 2018 -0800
+
+    you can't go on certain pages without verifying your email
+
+commit 1090a2439b4779fdf0b493687aee2574bc2e8a45
+Author: root <benmony1021@gmail.com>
+Date:   Wed Aug 29 23:10:49 2018 -0700
+
+    You can't see the trip pages without having contacts
+
+commit 470e0bcf9fec7eb4cd946cc1190502ab16d5071c
+Author: root <benmony1021@gmail.com>
+Date:   Wed Aug 29 22:10:37 2018 -0700
+
+    Shows the contacts in the start trip form
+
+commit fac0d1cff847daaa6f9389c2abd4017527289060
+Author: root <benmony1021@gmail.com>
+Date:   Wed Aug 29 22:08:27 2018 -0700
+
+    Shows the contacts in the start trip form
+
+commit 61ba224960f37aa1f809b4d280474b4f7164ebe0
+Author: root <benmony1021@gmail.com>
+Date:   Sat Aug 25 16:19:23 2018 -0700
+
+    The active trip is displayed on the portal home page
+
+commit dc5d4a6d27658a5abf6fae5f332bfc900fb1b125
+Author: root <benmony1021@gmail.com>
+Date:   Sat Aug 25 14:13:11 2018 -0700
+
+    Moved the login module
+
+commit 796c456594fa6479f38e8be9e84c3b46bb9f4e2c
+Author: root <benmony1021@gmail.com>
+Date:   Sat Aug 25 14:05:59 2018 -0700
+
+    Added a link to create your account
+
+commit ba2fb8c7d279ed2c52faa2f50006142a0eb3bf4e
+Author: root <benmony1021@gmail.com>
+Date:   Fri Aug 24 20:34:20 2018 -0700
+
+    Made a login module
+
+commit 93be7e87e9fa51c7a12bbc9f7fbe4a1988ed763b
+Author: root <benmony1021@gmail.com>
+Date:   Fri Aug 24 20:18:43 2018 -0700
+
+    Improved the login form
+
+commit ba59fd0ce39c91f3dd7a3da4c365d68fea9c79c6
+Author: root <benmony1021@gmail.com>
+Date:   Fri Aug 24 19:48:57 2018 -0700
+
+    Made home page more compact
+
+commit 948d06be7956b471578844308ea7a8503d4eeaca
+Author: root <benmony1021@gmail.com>
+Date:   Mon Aug 13 15:24:42 2018 -0700
+
+    Included a header in the home page
+
+commit 08306095d0f327309267e9ead75821f04d749045
+Author: root <benmony1021@gmail.com>
+Date:   Fri Aug 10 21:35:50 2018 -0700
+
+    Created a home page template
+
+commit 9afda272a9d05e6fc0bc767dd74c4285b9af219f
+Author: root <benmony1021@gmail.com>
+Date:   Mon Aug 6 13:56:55 2018 -0700
+
+    Fixed 'Invalid Email Address on empty string' bug
+
+commit 8ea3c880a744c949b024529b039304ad228c49e7
+Author: root <benmony1021@gmail.com>
+Date:   Mon Aug 6 13:50:56 2018 -0700
+
+    Fixed end time not required bug
+
+commit 4573baccfee02a44005ae921277d4f663c715529
+Author: root <benmony1021@gmail.com>
+Date:   Thu Jul 26 21:18:31 2018 -0700
+
+    Fixed 'can't create trip bug'
+
+commit 5e34b2b0d88acbc0a8c6b569e7e17388243edf3a
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 17 18:09:01 2018 -0700
+
+    Completed the notification system
+
+commit dd6834ee3f5260d9e7d28f1b0fdcac4f696892cd
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 17 16:20:20 2018 -0700
+
+    Improved file names
+
+commit f9ad9383a8920473750bbe25e1d311d6c265c8aa
+Author: root <benmony1021@gmail.com>
+Date:   Mon Jul 16 20:43:56 2018 -0700
+
+    You can now edit your country code
+
+commit 9979b53ba28bc3ba955cb66cd1261afc2b6b4ec2
+Author: root <benmony1021@gmail.com>
+Date:   Sun Jul 15 22:39:35 2018 -0700
+
+    It now shows you your country code on the profile page
+
+commit 246b5f16ff529e5c267d9be1f49960c7d3794af5
+Author: root <benmony1021@gmail.com>
+Date:   Sun Jul 15 22:33:54 2018 -0700
+
+    You can now specify the country code of your phone number
+
+commit 3e3b50b5da75b5d124e9e4fcfc1f10c5d8c44969
+Author: root <benmony1021@gmail.com>
+Date:   Sat Jul 14 16:53:54 2018 -0700
+
+    Wrote a function to send SMS messages
+
+commit c0195281d9e5050d1a01a1cbfce22b07752dd367
+Author: root <benmony1021@gmail.com>
+Date:   Fri Jul 13 11:39:39 2018 -0700
+
+    Gave the user the option to notify his contacts when he starts the trip
+
+commit e868b6a68b15f0b03d729012c90bfc589edec523
+Author: root <benmony1021@gmail.com>
+Date:   Fri Jul 13 10:57:54 2018 -0700
+
+    Added the ability to select email or phone, and improved notifications
+
+commit 517df130f2782aae81a232344d91470766e0de3e
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 3 12:45:54 2018 -0700
+
+    initial commit
+
+commit c294f355c38b957e21b2d1ac823ef9956239f58c
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 3 12:37:13 2018 -0700
+
+    ''
+
+commit 21a606d973555d9799a0abcde8b0203b26d8b3df
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 3 12:35:07 2018 -0700
+
+    ''
+
+commit b18d45857fc374fd4f15e22d3528acfb7e5a594f
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 3 12:31:32 2018 -0700
+
+    ''
+
+commit be88d7416777ed0a0e2f41389bae73c0cda43116
+Author: root <benmony1021@gmail.com>
+Date:   Tue Jul 3 11:57:18 2018 -0700
+
+    init
